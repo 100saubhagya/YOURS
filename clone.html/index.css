@@ -1,0 +1,43 @@
+h1 {
+    color: aquamarine;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: azure;
+}
+button{
+    color: blue;
+    background-color:brown;
+}
+body {
+    background-color:red;
+}
+#outer{
+    font-size:60px;
+}
+#inner{
+    font-size: 20px; 
+}
+
+button{
+    color: red;
+}
+p{
+    text-align:left;
+    text-decoration:overline;
+    font-weight: 200;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: rgb(39, 27, 27) underline;
+     font-weight: 900;
+}
+div{
+    height: 500px;
+    width: 100px;
+    
+    background-color: yellow;
+}

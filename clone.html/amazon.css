@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    color:white;
+}
+#navbar {
+    height: 60px;
+    background-color:black;
+}
+button {
+    background-color: rgb(241, 171, 79);
+}
+#logo{
+    color: rgba(47, 47, 228,)
+}
+a{
+    margin-right: 200px;
+}
